@@ -1,4 +1,3 @@
-# data
 <html>
 <body>
 <h1>my first html prog</h1>
